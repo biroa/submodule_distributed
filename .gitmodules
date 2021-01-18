@@ -1,0 +1,3 @@
+[submodule "styles/module"]
+	path = styles/module
+	url = https://github.com/biroa/module_repo.git
